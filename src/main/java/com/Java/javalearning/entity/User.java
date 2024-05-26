@@ -15,5 +15,6 @@ public class User {
     private Integer Id;
 
     private String name;
-    private String userId;
+
+    private Integer userId;
 }
